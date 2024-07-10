@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Palom\\source\\repos\\SGA\\SGA\\SGA.csproj",
+      "projectUniqueName": "C:\\Users\\Palom\\OneDrive\\Documentos\\GitHub\\SGA\\SGA\\SGA.csproj",
       "projectName": "SGA",
-      "projectPath": "C:\\Users\\Palom\\source\\repos\\SGA\\SGA\\SGA.csproj",
+      "projectPath": "C:\\Users\\Palom\\OneDrive\\Documentos\\GitHub\\SGA\\SGA\\SGA.csproj",
       "packagesPath": "C:\\Users\\Palom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Palom\\source\\repos\\SGA\\SGA\\obj\\",
+      "outputPath": "C:\\Users\\Palom\\OneDrive\\Documentos\\GitHub\\SGA\\SGA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
